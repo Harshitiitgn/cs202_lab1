@@ -7,7 +7,7 @@ def greet(name):
     print(f"Hello, {name}!")
 
 def calculate_perimeter_circle(r):
-    # """Calculate the perimeter (circumference) of a circle."""
+    """Calculate the perimeter (circumference) of a circle."""
     return 2 * math.pi * r
 
 def calculate_area(r):
